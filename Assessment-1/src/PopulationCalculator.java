@@ -2,7 +2,7 @@
 
 import java.util.*;
 public class PopulationCalculator {
-    public static void runCalculator(){
+    public static void main(String[] args){
 
         final int SECONDS_IN_YEAR = 60 * 60 * 24 * 365;
 
