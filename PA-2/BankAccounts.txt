@@ -1,0 +1,10 @@
+loyola, Loyola123, 1070750.25:1.0987348770109E11:inactive:inactive, [$73856.0] Checking Deposit:[$-0.0] Savings Withdrawal:[$-6332.75] Checking Withdrawal:[$78.0] Savings Deposit:[$109,873,487,623.09] Savings Deposit
+joe, JoePass, 153.09:893.83:inactive:inactive, null:null:[$90.0] Checking Deposit:[$893.83] Savings Deposit:[$63.09] Checking Deposit
+cyrus, CyrusIsCool, 95.0:268.4124567479:7.6:2.5673920384656492, [$1.0875432521] Savings Withdrawal:[$10.0] Savings Withdrawal:[$7.0] EmergencyFund Deposit:[$2.57] IndividualRetirement Deposit:[$0.60] EmergencyFund Deposit
+janedoe, JD9853, 894.9:0.0:inactive:inactive, null:null:null:null:[$894.9] Checking Deposit
+new, NewPass123, 0.0:0.0:inactive:inactive, null:null:null:null:null
+intenTionallyBrokenACcounT coRrUpTDaTa, 0..0::, nUll:nULL:null:null:null
+mary, maryPass, 153.09:893.83:inactive:inactive, null:null:[$90.0] Checking Deposit:[$893.83] Savings Deposit:[$63.09] Checking Deposit
+cyurs, cyurs, 0.0:0.0:inactive:inactive, null:null:null:null:null
+cyrus1, testpassword, 0.0:inactive:inactive:0.0, null:null:null:null:[$0.00] Checking -> IndividualRetirement Transfer
+newempty, newemptypass, 0.0:0.0:0.0:7.7654, [$10.00] Checking Withdrawal:[$0.00] Savings -> EmergencyFund Transfer:[$5.00] Checking Deposit:[$2.77] IndividualRetirement Deposit:[$5.00] Checking -> IndividualRetirement Transfer
