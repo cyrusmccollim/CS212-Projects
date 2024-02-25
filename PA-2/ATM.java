@@ -1,10 +1,3 @@
-// Note to Mr. John:
-// I apologize for getting way too carried away with this project!
-// It has been a lot of fun going the extra mile (or a hundred) to create the most realist ATM/Banking simulation I possibly could.
-// I figure that since I'm already comfortable with Java basics, tackling more complex concepts and bigger projects could only serve to benefit.
-// For clarification: All usages (comments/variables) of "account" are referencing transactional accounts *within* bank accounts (e.g. checking, savings).
-//                    All usages (comments/variables) of "bank account" are just that.
-
 public class ATM {
     private static boolean isContinuingService = true; // True while the main program is still running.
     private static boolean isInteractingWithBankAccount = true; // True while a bank account is being interacted with.
