@@ -1,0 +1,41 @@
+Attributes:
+  HashMap<Integer, String> ACCOUNT_TYPES (static)
+  long ID
+  String name
+  double balance
+  boolean isActive
+
+Account(int ID)
+  Sets the account name based on the ID from the predefined ACCOUNT_TYPES map.
+  Sets the initial balance to 0.0.
+  Sets the account as inactive.
+
+Account(int ID, double balance)
+  Sets the account name based on the ID from the predefined ACCOUNT_TYPES map.
+  Sets the initial balance to the provided value.
+  Sets the account as active.
+
+getID()
+  Returns the ID of the account.
+
+getName()
+  Returns the name of the account.
+
+getBalance()
+  Returns the current balance of the account.
+
+isActive()
+  Returns true if the account is active, false otherwise.
+
+deposit(double amount)
+  Sets the account as active.
+  Increases the account balance by the specified amount.
+
+withdraw(double amount)
+  Sets the account as active.
+  Decreases the account balance by the specified amount.
+
+transfer(Account toAccount, double amount)
+  Sets both the source and destination accounts as active.
+  Decreases the balance of the source account by the specified amount.
+  Increases the balance of the destination account by the specified amount.

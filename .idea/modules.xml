@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Assessment-0/Assessment-0.iml" filepath="$PROJECT_DIR$/Assessment-0/Assessment-0.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Assessment-1/Assessment-1.iml" filepath="$PROJECT_DIR$/Assessment-1/Assessment-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity-0/Activity-0.iml" filepath="$PROJECT_DIR$/Activity-0/Activity-0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity-1/Activity-1.iml" filepath="$PROJECT_DIR$/Activity-1/Activity-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity-3/Activity-3.iml" filepath="$PROJECT_DIR$/Activity-3/Activity-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity-4/Activity-4.iml" filepath="$PROJECT_DIR$/Activity-4/Activity-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity-5/Activity-5.iml" filepath="$PROJECT_DIR$/Activity-5/Activity-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity-6/Activity-6.iml" filepath="$PROJECT_DIR$/Activity-6/Activity-6.iml" />
       <module fileurl="file://$PROJECT_DIR$/CS212-Projects.iml" filepath="$PROJECT_DIR$/CS212-Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/PA-0/PA-0.iml" filepath="$PROJECT_DIR$/PA-0/PA-0.iml" />
       <module fileurl="file://$PROJECT_DIR$/PA-1/PA-1.iml" filepath="$PROJECT_DIR$/PA-1/PA-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PA-2/PA-2.iml" filepath="$PROJECT_DIR$/PA-2/PA-2.iml" />
     </modules>
   </component>
 </project>
