@@ -1,0 +1,14 @@
+1. Create array named rollDistribution of size 11
+2. Create a Scanner object named input
+3. Print "Welcome to Rolling Dice! Simulate rolling a pair of dice."
+4. Prompt the user with "How many rolls? " and read input to numRollsInput
+5. While numRollsInput is not a positive integer:
+    a. Prompt the user with "Invalid, try again: " and read input to numRollsInput
+6. Convert numRollsInput to an integer and assign it to numRolls
+7. Loop numRolls times:
+    a. Generate two random integers between 1 and 6 inclusive and assign them to rollOne and rollTwo
+    b. Increment the element at index (rollOne + rollTwo - 2) in rollDistribution
+8. Initialize a string named result as "Distribution:\n"
+9. For index in rollDistribution:
+    a. Append the current index plus 2 and "*"'s equal to the value of the current element to result
+10. Print result
